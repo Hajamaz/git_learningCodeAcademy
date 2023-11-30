@@ -1,0 +1,10 @@
+#randMsg {
+    transition: opacity 0.5 ease-in-out;
+}
+
+
+
+
+.fade-out {
+    opacity: 0;
+}
